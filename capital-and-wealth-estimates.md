@@ -4,6 +4,7 @@ plugins:
 ---
 
 # Capital and wealth estimates
+Test
 
 Having examined anomalies in the current account \(trade mispricing\) in the previous chapter, we now turn to approaches to estimation of illicit financial flows \(as some of the authors do, we also use the term illicit financial flows and capital flight interchangeably\) that make use of anomalies in the capital account \(unrecorded capital movements\). We address three capital account-based approaches: of GFI; of Ndikumana and Boyce; and of Henry, the first two of which combine trade-based and capital account components.
 
@@ -157,7 +158,16 @@ Overall, the Tax Justice Network report of Henry \(2012\) made a significant con
 
 In an original contribution, Zucman \(2013\) estimated how much undeclared wealth held might be hidden in tax havens using detailed data on financial wealth managed by Swiss banks on behalf of foreigners that he further updated and presented \(Zucman, 2014, 2015\). In a recent follow-up study with co-authors, Alstadsaeter, Johannesen, & Zucman \(2018\) disaggregate the earlier estimates of offshore wealth by Zucman \(2013\) by country. Alstadsaeter, Johannesen, & Zucman \(2018\) still uses the detailed Swiss data but enrich it with other international sources, including the recently disseminated bilateral data from the Bank for International Settlements \(BIS\) on deposits in a number of tax havens by foreigners. This enables them to present how much wealth various countries’ citizens hold in tax havens \(or offshore, two terms that we use here interchangeably, but more detailed specification is provided by Alstadsaeter, Johannesen, & Zucman, 2018, p. 7\).
 
-In this subchapter, we present research by both Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\), but focus on the latter that include country-by-country estimates, which are in line with this book’s objectives of having country-level indicators that enable tracking over time. Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\) provide methods and estimates that likely provide the currently most reliable estimates of wealth in tax havens, although better data in the future should enable further research to improve on them in a number of areas that we discuss below \(for example, they do not capture non-financial wealth and they provide estimates of only financial wealth\).
+In this subchapter, we present research by both Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\), but focus on the latter that include country-by-country estimates, which are in line with this book’s objectives of having country-level indicators that enable tracking over time. Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\) provide methods and estimates that likely provide the currently most reliable estimates of wealth in tax havens, PLEASE FORGIVE THE CAPITALS. I AM NEW TO GITHUB, THIS SEEMS TO BE THE BEST WAY TO ADD NOTES. 
+ZUCMAN ETC.'S APPROACH (LET'S CALL IT THE ZUCMAN METHOD) IS, I THINK, FATALLY FLAWED. (AND IT IS REMARKABLE THAT, GIVEN THIS, TJN SHOULD ATTACK ITS OWN EARLIER WORK IN THIS WAY.)
+ZUCMAN'S HOLES ARE FOR SEVERAL REASONS, THE WAY I SEE IT.
+1. THE ZUCMAN METHOD FOCUSES ON MISMATCHES BETWEEN CROSS BORDER HOLDINGS OF ASSETS AND LIABILITIES AS RECORDED BY DIFFERENT COUNTRIES. THAT IS FINE FOR ASSETS WHERE BENEFICIAL OWNERSHIP INFO IS UNRECORDED IN ONE JURISDICTION. BUT A LOT OF THIS IS NOT UNRECORDED BUT MISRECORDED. TJN NEEDS TO USE ITS EXPERTISE IN THIS AREA TO CONDUCT A MAPPING EXERCISE TO WORK OUT WHERE THIS WOULD CREATE A GAP IN ZUCMAN'S DATA, AND WHERE NOT. THIS IS A FAIRLY EASY AND SOPHISTICATED WIN FOR TJN.
+2. THE ZUCMAN DATA USES AGGREGATED DATASETS OF CROSS-BORDER HOLDINGS. BANKS AND OTHER FINANCIAL INSTITUTIONS ARE PROBABLY NOT TOO BOTHERED ABOUT SUPPLYING AGGREGATE DATA TO BALANCE OF PAYMENTS MEASURING BODIES. THE SWISS, FOR INSTANCE, PROVIDE AND PUBLISH LOTS OF THIS DATA. BUT THEY ARE VERY BOTHERED INDEED ABOUT PROVIDING CLIENT-LEVEL DATA TO TAX AUTHORITIES. AND IT'S THIS LATTER CATEGORY, NOT THE FORMER CATEGORY, THAT INTERESTS US IF WE'RE TALKING ABOUT OFFSHORE WEALTH. THIS NEEDS TO BE INVESTIGATED FURTHER.
+IT COULD BE THAT I HAVE MADE A MISTAKE ON THESE TWO POINTS BUT BASED ON DISCUSSIONS WITH OTHERS I HAVEN'T. 
+
+BUT TJN MUST DISCUSS AND INVESTIGATE THESE ISSUES OPENLY AND EXPLICITLY. THIS PROJECT WOULD SEEM TO BE THE OPPORTUNITY TO DO IT. IT HAS BEEN BADGERED TO DO SO REPEATEDLY, BUT SO FAR, RADIO SILENCE - AND NOW THIS.
+
+although better data in the future should enable further research to improve on them in a number of areas that we discuss below \(for example, they do not capture non-financial wealth and they provide estimates of only financial wealth\).
 
 ### Data
 
@@ -188,7 +198,9 @@ $$\times
 
 Alstadsaeter, Johannesen, & Zucman \(2018\) then proceed to show implications of offshore wealth for distribution of wealth for ten countries, but we do not discuss these here in detail because they are not sufficiently relevant to our main objective of illicit financial flows.
 
-We consider the methodologies and estimates of Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\) as the most reliable estimates of offshore wealth available, in terms of the country breakdown in particular. Still, these research papers naturally have their limitations. Both of these inevitably focus exclusively on financial wealth and their estimates are thus underestimates because they ignore non-financial wealth such as real estate, gold, works of art etc. Also, Alstadsaeter, Johannesen, & Zucman \(2018\) present main results for 2007 and argue that the more recent period is contaminated by the use of shell companies. So there is obviously a scope for detailing the development in recent years, which might be important, as they acknowledge, for example in the case of China.
+We consider the methodologies and estimates of Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\) as the most reliable estimates of offshore wealth available, in terms of the country breakdown in particular. 
+
+I Still, these research papers naturally have their limitations. Both of these inevitably focus exclusively on financial wealth and their estimates are thus underestimates because they ignore non-financial wealth such as real estate, gold, works of art etc. Also, Alstadsaeter, Johannesen, & Zucman \(2018\) present main results for 2007 and argue that the more recent period is contaminated by the use of shell companies. So there is obviously a scope for detailing the development in recent years, which might be important, as they acknowledge, for example in the case of China.
 
 ### Results
 
